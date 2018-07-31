@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: tech.note.wd
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
+description: 学んだことを書いておくところ。
+keywords: Python, Django, SF
+author: Daiki Watanabe
+language: Japanese
 timezone:
 
 # URL
